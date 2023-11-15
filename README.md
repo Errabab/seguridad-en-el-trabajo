@@ -1,10 +1,9 @@
 # seguridad en el trabajo
  ![portada-simpsont](img/seriedad.jpg)
-## Indice 
-  **introduccion**
-  
-    1. Riesgos laborales 
-    2. Prevención de riesgos desde un punto de vista informático.
+## Indice
+ **Introduccion**
+   1. Riesgos laborales 
+   2. Prevención de riesgos desde un punto de vista informático.
 
 ## Referencias
 
