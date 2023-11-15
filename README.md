@@ -1,5 +1,5 @@
 # seguridad en el trabajo
-![portada-simpsont](img/portada.png)
+![portada-simpsont](img/portada.jpg)
 ## Indice 
   1. Riesgos laborales 
   2. Prevención de riesgos desde un punto de vista informático.
